@@ -1,0 +1,1 @@
+At the center of the cross lines, these two curve have the same magnitude so that is a C(0) continuity, and also the magnitude of first deriavtive are the same and the tangent whether from upper or below is vertical at the u = 0.5 , so that it has C(1) continuity, which also implies the G(1) continuity
