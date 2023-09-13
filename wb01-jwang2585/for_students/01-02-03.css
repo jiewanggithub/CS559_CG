@@ -1,0 +1,23 @@
+/* this defines a style for a class */
+.blueText {
+    color:blue;
+    background-color:lightblue;
+}
+
+/* this defines a style for an ID */
+#blueText {
+    color: rgb(44, 39, 49);
+    background-color: lightpink;
+}
+
+/* a simple box style to play with */
+.onebox {
+    border: 2px solid rgb(0, 255, 64);
+    border-radius: 2px;
+    width:150px;
+    padding: 0px 10px 0px 10px;
+    margin: 15px 5px 15px 5px; 
+    background-color: rgb(250, 210, 210);
+    color:rgb(21, 0, 255);
+}
+
