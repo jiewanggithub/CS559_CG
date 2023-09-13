@@ -1,0 +1,21 @@
+<!-- here is a big, empty SVG! make it into something interesting! -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="600px"
+    width="600px">
+    <!-- you can delete this big rectangle - it's just a placeholder -->
+    <rect x="0" y="0" height="600" width="600" fill="#DDD" />
+    <g>
+        <circle id="square" cx="300" cy="300" r="50" fill="skyblue" stroke-width="3" stroke="orange" />
+        <use xlink:href="#square" x="100" y="100"></use>
+        <use xlink:href="#square" x="-100" y="100"></use>
+        <use xlink:href="#square" x="100" y="-100"></use>
+        <use xlink:href="#square" x="-100" y="-100"></use>
+        <g transform="translate(300,300)">
+            <polygon id="polygon" points="0,0 50,25 50,75 100,0" />
+            <use xlink:href="#polygon" x="-100" y="-100" transform="rotate(180)"></use>
+            <g id="arc" transform="translate(-100,-150)">
+                <path d="M 10 80 Q 52.5 10, 95 80 T 180 80" stroke-width="20" stroke="black"
+                    fill="transparent" />
+            </g>
+        </g>
+    </g>
+</svg>
