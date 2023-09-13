@@ -1,0 +1,5 @@
+Students should list the advanced points they have completed:
+1.Boids bounce off each other
+2.Boids bounce off obstacles
+3.Implement “steering” behaviors.
+4.Alignment flocking behavior
