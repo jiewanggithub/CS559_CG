@@ -1,0 +1,7 @@
+Explain how you used a normal and bump map above
+
+bumpMap: assigned the Earth sphere with a Earth texture as bump map
+nomralMap: assinged the Earth sphere with a Earth texture as normal map
+combined: assinged the Earth sphere with a Earth texture as bump and a texture 
+as color
+Earth image from https://maps.googleblog.com/2013/06/only-clear-skies-on-google-maps-and.html

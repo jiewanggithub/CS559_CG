@@ -1,0 +1,5 @@
+1. The input of vertex shader is attributes and uniforms of the vertex  
+   The output of vertex shader is the screen position of the vertex and other output attributes
+
+2. The input of fragment shader is the properties of the fragment
+   The output of the gragment shader are more properties of fragment

@@ -1,0 +1,6 @@
+Please describe the buildings you created in this file 08-06-01.txt
+
+Explain how you made the buildings. 
+There are three houses, these houses have different materials and roof shapes.
+There are a house with pyramid hip roof and a house with open gable roofs.
+The last one house with more compicated roof and more fancy texture.

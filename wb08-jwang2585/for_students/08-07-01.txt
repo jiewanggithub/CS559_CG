@@ -1,0 +1,4 @@
+Please describe the vehicles you created and how you made them in this file 08-07-01.txt
+I used a 4 cylinder geometry to make the front and back wheels of the car,
+and use canvas to draw the texture i want on the front, back and left and right side
+of the car. Mapping them on a box geometry. Then assemble them together

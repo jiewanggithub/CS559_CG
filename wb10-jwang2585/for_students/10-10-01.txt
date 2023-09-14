@@ -1,0 +1,9 @@
+Where did you get your shader? Describe the source and include a link.
+
+glsl sandbox
+https://glslsandbox.com/e#80456.0
+
+
+In your own words, describe how this shader works. (3-5 sentences)
+
+Determing pixials inside or outside of the ellipse, if this is right, then determine the lighting by position

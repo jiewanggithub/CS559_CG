@@ -1,0 +1,3 @@
+Answer the question.
+
+The specular color is white and the diffuse color is yellow. They are independent from each other

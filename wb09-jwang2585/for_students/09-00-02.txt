@@ -1,0 +1,5 @@
+Give proper attribution for models gathered from the web here
+
+Earth image from https://maps.googleblog.com/2013/06/only-clear-skies-on-google-maps-and.html
+Moon image from https://www.chinadaily.com.cn/china/2012-02/06/content_14544522.htm
+I got the star image from https://www.britannica.com/science/star-astronomy

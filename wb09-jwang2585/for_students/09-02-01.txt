@@ -1,0 +1,4 @@
+Explain how you incorporated a material property map here and what its effect is (how can we see it?)
+
+I downloaded these two maps including Earth and Moon to simulate the rotation.
+I maped these picture to one of the spheres with roughnessmap.  
